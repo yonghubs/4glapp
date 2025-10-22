@@ -1,5 +1,0 @@
-<html>
-<body>
-<h2>welcome yong's house</h2>
-</body>
-</html>
